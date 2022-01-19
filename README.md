@@ -11,3 +11,4 @@ This project is an extension of the Little Esty Shop group project. Added functi
 * Write model tests that fully cover the data logic of the application
 * Write feature tests that fully cover the functionality of the application
 
+![Screen Shot 2022-01-19 at 10 30 59 AM](https://user-images.githubusercontent.com/81737385/150183387-7d9a224b-0193-4bad-af65-28e748789ac5.png)
